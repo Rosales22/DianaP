@@ -37,7 +37,7 @@ body{
 }
 
 .greetings{
-    font-size: 30rem;
+    font-size: 33rem;
     font-weight: 100;
 }
 .greetings > span{
@@ -92,7 +92,7 @@ body{
 @media screen and (max-width:574px){
     .greetings{
         display: block;
-        font-size: 20px;
+        font-size: 25px;
         font-weight: 800;
         text-align: center;
     }
